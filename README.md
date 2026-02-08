@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>🚀 Sol Trade SDK</h1>
+    <h1>🚀 Sol Trade SDK!</h1>
     <h3><em>A comprehensive Rust SDK for seamless Solana DEX trading</em></h3>
 </div>
 
